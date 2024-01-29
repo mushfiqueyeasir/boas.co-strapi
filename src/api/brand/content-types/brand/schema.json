@@ -12,7 +12,7 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "brandImage": {
+    "image": {
       "type": "media",
       "multiple": false,
       "required": true,
@@ -20,7 +20,7 @@
         "images"
       ]
     },
-    "brandName": {
+    "name": {
       "type": "string"
     }
   }
